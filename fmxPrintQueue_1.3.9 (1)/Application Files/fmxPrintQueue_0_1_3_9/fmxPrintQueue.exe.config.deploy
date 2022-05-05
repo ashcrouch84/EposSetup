@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <section name="fmxPrintQueue.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false"/>
+        </sectionGroup>
+    </configSections>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5"/>
+    </startup>
+    <userSettings>
+        <fmxPrintQueue.My.MySettings>
+            <setting name="fusemetrixurl" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="password" serializeAs="String">
+                <value>}(H]3f9cE24g+&lt;{+</value>
+            </setting>
+            <setting name="queuename" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="queueid" serializeAs="String">
+                <value>0</value>
+            </setting>
+        </fmxPrintQueue.My.MySettings>
+    </userSettings>
+</configuration>
